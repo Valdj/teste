@@ -1,0 +1,71 @@
+.nav-centro{
+    width: 775px
+
+}
+.navegar{
+    height: 70px;
+    background-color: rgb(255, 255, 255);
+}  
+
+/* imagens com hover  */
+
+.imagens{
+    width: 330px;
+    height: 450px;
+    margin:20px;
+    
+}
+.imagens:hover{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover
+}
+.img1{
+    background-image:url("img.img/img/joia.png");
+}
+.img1:hover{
+    background-image:url("img.img/img/aneis.png");
+}
+.img2{
+    background-image:url("img.img/img/moca.jpg");
+}
+.img2:hover{
+    background-image:url("img.img/img/brinco.png");
+}
+
+.img3{
+    background-image:url("img.img/img/moca2.jpg");
+}
+.img3:hover{
+    background-image:url("img.img/img/pulseira.png");
+}
+
+.img4{
+    background-image:url("img.img/img/moca3.jpg");
+}
+.img4:hover{
+    background-image:url("img.img/img/colar.png");
+}
+
+.img5{
+    background-image:url("img.img/img/moca4.jpg");
+}
+.img5:hover{
+    background-image:url("img.img/img/brinco.png");
+}
+
+.img6{
+    background-image:url("img.img/img/moca5.jpg");
+}
+.img6:hover{
+    background-image:url("img.img/img/anel.jpg");
+}
+
+
+.letratema{
+    font-size: 40px;
+}
+
+.letras{
+    font-size: 30px;
+}

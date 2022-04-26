@@ -1,0 +1,41 @@
+/* config padrao pag */
+
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	font-family: Ubuntu, arial;
+	box-sizing: border-box;
+}
+
+/* padrao */
+.login {
+height: 100vh;
+    }
+    
+    .flex{
+        display: flex;
+    }
+    
+    .flex-start{
+justify-content: flex-start;
+ flex-wrap: wrap;
+    }
+    
+    .fundo-login{
+    margin: 10px;
+     width: 500px;
+    height: 500px;
+    background-image: url("img/inventariofundo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    }
+    
+    .cadastro{
+height: 100vh;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+text-decoration: none;
+    }
+    
